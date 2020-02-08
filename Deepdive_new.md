@@ -18,6 +18,8 @@
 
 ## 3 安装
 
+在安装deepdive之前，我们需要先安装和配置java和python环境。python最好安装2.X版本的。
+
 我们下载到的Deepdive是一个`.zip`格式的压缩包，所以我们先要解压缩，图形界面下：*右键->提取到此处（Extract Here）* ；或者命令行下`cd`到`Deepdive.zip`文件的目录下，输入命令：
 
 ```shell
